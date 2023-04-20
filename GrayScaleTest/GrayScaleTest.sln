@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrayScaleTest", "GrayScaleTest\GrayScaleTest.csproj", "{1A7F7470-BB3F-421A-9031-F3AECDF81D22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A7F7470-BB3F-421A-9031-F3AECDF81D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A7F7470-BB3F-421A-9031-F3AECDF81D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A7F7470-BB3F-421A-9031-F3AECDF81D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A7F7470-BB3F-421A-9031-F3AECDF81D22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EA7A3E5-9817-4096-A001-B9BE17315F52}
+	EndGlobalSection
+EndGlobal
